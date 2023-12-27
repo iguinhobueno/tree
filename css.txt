@@ -1,0 +1,3 @@
+Clamp: 3 paramêtros  min, recomendado, max
+
+Scroll behavior: mexe com os parametros de rolagem
